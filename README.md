@@ -4,29 +4,18 @@ Sign language recognition is the process of interpreting hand gestures to transl
 
 **What You Will Learn from This Post**
 
-Basic understanding of sign language recognition
-
-How to detect hand landmarks using computer vision
-
-How to use OpenCV for real-time video processing
-
-How to leverage cvzone's HandTrackingModule for hand detection
-
-How to use a pre-trained Keras model for gesture classification
-
-How to refine predictions using custom landmark-based logic
+- Basic understanding of sign language recognition
+- How to detect hand landmarks using computer vision
+- How to use OpenCV for real-time video processing
+- How to leverage cvzone's HandTrackingModule for hand detection
+- How to use a pre-trained Keras model for gesture classification
+- How to refine predictions using custom landmark-based logic
 
 **Project Requirements :**
 Python 3
-
 OpenCV (opencv-python)
-
 cvzone
-
 Keras
-
 NumPy
-
 A webcam for real-time video input
-
 A pre-trained CNN model (cnn8grps_rad1_model.h5)
