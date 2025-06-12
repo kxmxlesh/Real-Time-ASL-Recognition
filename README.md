@@ -12,10 +12,10 @@ Sign language recognition is the process of interpreting hand gestures to transl
 - How to refine predictions using custom landmark-based logic
 
 **Project Requirements :**
-Python 3
-OpenCV (opencv-python)
-cvzone
-Keras
-NumPy
-A webcam for real-time video input
+Python 3,
+OpenCV (opencv-python),
+cvzone,
+Keras,
+NumPy,
+A webcam for real-time video input,
 A pre-trained CNN model (cnn8grps_rad1_model.h5)
